@@ -1,4 +1,4 @@
-HTML Basics
+ &   HTML Basics
 
 The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
